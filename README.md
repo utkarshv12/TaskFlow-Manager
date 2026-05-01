@@ -112,6 +112,6 @@ npm run dev
 
 ## 👨‍💻 Developer
 
-Utkarsh Verma
+Utkarsh
 
 ---
